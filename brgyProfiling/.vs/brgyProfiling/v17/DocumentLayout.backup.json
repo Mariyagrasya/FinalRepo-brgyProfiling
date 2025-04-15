@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\voterregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\voterregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\voterregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\voterregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\householdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\householdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\householdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\householdform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\businesspermitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\businesspermitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\businesspermitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\businesspermitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\brgyofficialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\brgyofficialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\brgyofficialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\brgyofficialsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\blotterrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\blotterrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\blotterrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\blotterrecordsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|c:\\users\\acer\\onedrive\\documents\\brgyprofiling\\brgyprofiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyprofiling\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{506EEDD3-D155-4378-8D85-B5B5BBF321F1}|brgyProfiling\\brgyProfiling.csproj|solutionrelative:brgyprofiling\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "residentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\residentsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\residentsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\residentsForm.cs",
+              "RelativeToolTip": "brgyProfiling\\residentsForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:13:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\reportsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\reportsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\reportsForm.cs",
+              "RelativeToolTip": "brgyProfiling\\reportsForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:13:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "householdForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\householdForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\householdForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\householdForm.cs",
+              "RelativeToolTip": "brgyProfiling\\householdForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:12:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "voterRegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\voterRegistrationForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\voterRegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\voterRegistrationForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\voterRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:21:19.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "voterRegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\voterRegistrationForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\voterRegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\voterRegistrationForm.cs",
+              "RelativeToolTip": "brgyProfiling\\voterRegistrationForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:25:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "householdForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\householdForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\householdForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\householdForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\householdForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:20:44.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "businessPermitsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\businessPermitsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\businessPermitsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\businessPermitsForm.cs",
+              "RelativeToolTip": "brgyProfiling\\businessPermitsForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vyQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:12:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "residentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\residentsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\residentsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\residentsForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\residentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:21:10.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "brgyOfficialsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\brgyOfficialsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\brgyOfficialsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\brgyOfficialsForm.cs",
+              "RelativeToolTip": "brgyProfiling\\brgyOfficialsForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vx0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:12:37.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "reportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\reportsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\reportsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\reportsForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\reportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:17:33.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "blotterRecordsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\blotterRecordsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\blotterRecordsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\blotterRecordsForm.cs",
+              "RelativeToolTip": "brgyProfiling\\blotterRecordsForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:12:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\Program.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\Program.cs",
+              "RelativeToolTip": "brgyProfiling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:11:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\loginForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\loginForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\loginForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:20:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "businessPermitsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\businessPermitsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\businessPermitsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\businessPermitsForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\businessPermitsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:20:35.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "brgyOfficialsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\brgyOfficialsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\brgyOfficialsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\brgyOfficialsForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\brgyOfficialsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:20:25.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "blotterRecordsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\blotterRecordsForm.cs",
+              "RelativeDocumentMoniker": "brgyProfiling\\blotterRecordsForm.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Documents\\brgyProfiling\\brgyProfiling\\blotterRecordsForm.cs [Design]",
+              "RelativeToolTip": "brgyProfiling\\blotterRecordsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:20:15.233Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
